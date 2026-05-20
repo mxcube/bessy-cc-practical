@@ -1,1 +1,1 @@
-# bessy-cc-practical
+# BESSY Code camp
